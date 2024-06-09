@@ -1,6 +1,0 @@
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1055 Starting new HTTPS connection (1): qa-scooter.praktikum-services.ru:443
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:549 https://qa-scooter.praktikum-services.ru:443 "POST /api/v1/courier HTTP/1.1" 201 11
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1055 Starting new HTTPS connection (1): qa-scooter.praktikum-services.ru:443
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:549 https://qa-scooter.praktikum-services.ru:443 "POST /api/v1/courier/login HTTP/1.1" 200 13
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1055 Starting new HTTPS connection (1): qa-scooter.praktikum-services.ru:443
-[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:549 https://qa-scooter.praktikum-services.ru:443 "PUT /api/v1/orders/accept/?courierId=327472 HTTP/1.1" 404 35
